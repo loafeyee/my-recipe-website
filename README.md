@@ -1,2 +1,4 @@
 # my-recipe-website
-A fun little project for the odin project
+Welcome to my recipe website!
+
+(P.S Do not consume any of the aforementioned foods)
